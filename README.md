@@ -3,35 +3,35 @@
 
 
 # Learning about UX/UI
-https://www.moonlearning.io (obviously)
-https://start.uxdesign.cc
-https://www.nngroup.com
-https://lawsofux.com
-https://www.nngroup.com/ux-conference
-https://uxdesign.cc
-https://www.xd.adobe.com/ideas
-https://uxplanet.org
+- https://www.moonlearning.io (obviously)
+- https://start.uxdesign.cc
+- https://www.nngroup.com
+- https://lawsofux.com
+- https://www.nngroup.com/ux-conference
+- https://uxdesign.cc
+- https://www.xd.adobe.com/ideas
+- https://uxplanet.org
 
 # UX/UI Design Patterns & References
-https://www.checklist.design
-https://mobbin.design
-https://Webframe.xyz
-https://pageflows.com
-http://www.goodweb.design
-https://www.designsystemchecklist.com
+- https://www.checklist.design
+- https://mobbin.design
+- https://Webframe.xyz
+- https://pageflows.com
+- http://www.goodweb.design
+- https://www.designsystemchecklist.com
 
 # UX Case Studies
-https://growth.design
-https://www.casestudy.club
-https://www.useronboard.com
+- https://growth.design
+- https://www.casestudy.club
+- https://www.useronboard.com
 
 # UX Testing & Research Tools
-https://maze.co
-https://www.uxtweak.com
-https://www.hotjar.com
-https://www.usertesting.com
-https://www.lookback.com
-https://usabilityhub.com
+- https://maze.co
+- https://www.uxtweak.com
+- https://www.hotjar.com
+- https://www.usertesting.com
+- https://www.lookback.com
+- https://usabilityhub.com
 
 # Ethical Design
 humanebydesign.com
